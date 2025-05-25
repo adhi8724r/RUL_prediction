@@ -1,4 +1,4 @@
-##Data-Driven machine learning approaches for Lithium-ion Batteries RUL Prediction
+#Data-Driven machine learning approaches for Lithium-ion Batteries RUL Prediction
 
 Dataset: Battery Dataset from NASA prognostic centre of excellence
 
